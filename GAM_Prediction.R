@@ -1,3 +1,6 @@
+# Credit to Jim Albert https://gist.github.com/bayesball for 
+# Strike zone visualizatoin
+
 #----- Required Packages-----#
 library(readr)
 library(dplyr)
